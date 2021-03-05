@@ -1,3 +1,3 @@
 # 4bitcomparator
-It takes two 4-Bit numbers A and B and find A>B , A&lt;B or A=B
-it uses logisim
+It takes 4 bit numbers and displays the maximum entered number so far
+
